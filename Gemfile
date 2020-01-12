@@ -9,6 +9,8 @@ group :production do
     gem "bundler"
 end
 
+=begin
 group :development do
     gem "rubocop", require: false
 end
+=end

@@ -3,6 +3,7 @@ This notifier tells your workspace contest date of [AtCoder](https://atcoder.jp/
 In first setting, it send notification 1 and 24 hours before the contest.
 
 This is not yet completed and in testing !!
+> Now, Execution by schedule is stopped.
 
 # Usage
 ## Add Webhook App
@@ -29,7 +30,7 @@ That's all you do.
 
 > I want to work just by foking.
 > But it doesn't work.
-> Currently adjudting.
+> Currently adjusting.
 
 # How it works
 ## Scraping
