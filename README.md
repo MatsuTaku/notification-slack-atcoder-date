@@ -2,8 +2,9 @@
 This notifier tells your workspace contest date of [AtCoder](https://atcoder.jp/).
 In first setting, it send notification 1 and 24 hours before the contest.
 
-This is not yet completed and in testing !!
-> Now, Execution by schedule is stopped.
+> Usage of GitHub Actions in this repo may be not recommended.
+> So now, execution by schedule and pushing to master is stopped.
+> If you use this repo or Actions used in this repo, please take responsibility for your actions.
 
 # Usage
 ## Add Webhook App
