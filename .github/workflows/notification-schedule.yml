@@ -2,10 +2,8 @@ name: Notification on Schedule
 
 on:
   push:
-    branches:
-      - development
-  # schedule:
-  #   - cron: "0 * * * *"
+  schedule:
+    - cron: "0 * * * *"
 
 jobs:
   notificate:
